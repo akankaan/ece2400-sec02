@@ -2,6 +2,7 @@
 
 int avg( int x, int y )
 {
+  int sum;
   sum = x + y;
   return sum / 2;
 }

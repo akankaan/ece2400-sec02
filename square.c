@@ -2,7 +2,7 @@
 
 int square( int x )
 {
-  square_x = x * x;
+  int square_x = x * x;
   return square_x;
   
 }
